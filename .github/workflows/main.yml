@@ -1,2 +1,2 @@
 name: Publish to npm
-uses: pascalgn/npm-publish-action@1.3.9
+uses: GITREPO-BATBARTv/npm-publish-action@1.3.9
